@@ -8,5 +8,5 @@
   "main": "index.html",
   "keywords": ["base64", "编码", "解码", "encode", "decode"],
   "permissions": ["clipboard"],
-  "minHostVersion": "0.1.0"
+  "minHostVersion": "0.2.0"
 }
